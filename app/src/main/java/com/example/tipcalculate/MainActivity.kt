@@ -9,6 +9,7 @@ import kotlin.math.ceil
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     //edit1
+    //edit2
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
